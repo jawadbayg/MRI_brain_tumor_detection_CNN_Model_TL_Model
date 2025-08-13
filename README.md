@@ -3,9 +3,9 @@ Brain Tumor Detection CNN Model
 Hugging Face Link:
 https://huggingface.co/jawadskript/brain_tumor_detection_CNN_DeepLearning
 
-This model was trained using a Convolutional Neural Network (CNN) to classify brain MRI images as either having a tumor or not. It uses Keras with TensorFlow backend and was trained on the publicly available Brain Tumor MRI Dataset from Kaggle. Dataset
-
 Dataset Link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+This model was trained using a Convolutional Neural Network (CNN) to classify brain MRI images as either having a tumor or not. It uses Keras with TensorFlow backend and was trained on the publicly available Brain Tumor MRI Dataset from Kaggle. Dataset
 
 The dataset contains 3,762 T1-weighted contrast-enhanced MRI images, labeled as:
 
