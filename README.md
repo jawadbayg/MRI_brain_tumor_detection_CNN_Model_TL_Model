@@ -23,3 +23,4 @@ Final Activation: sigmoid
 Loss: binary_crossentropy
 Optimizer: Adam
 
+Check requirements.txt file
