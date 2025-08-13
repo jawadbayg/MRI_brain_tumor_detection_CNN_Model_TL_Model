@@ -22,3 +22,4 @@ Input shape: (150, 150, 3)
 Final Activation: sigmoid
 Loss: binary_crossentropy
 Optimizer: Adam
+
