@@ -9,10 +9,7 @@ Dataset Link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/brain-logo.png" alt="Logo" width="200" height="200">
-  </a>
-
+  
 <h3 align="center">Transfer Learning with EfficientNet For The Classification of Brain Tumor MR Images
  <br>An End-to-End Deep Learning Project</h3>
 
