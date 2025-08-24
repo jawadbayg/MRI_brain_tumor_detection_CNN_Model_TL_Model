@@ -1,4 +1,4 @@
-Brain Tumor Detection CNN Model
+Brain Tumor Detection CNN Model build from scratc
 
 Hugging Face Link:
 https://huggingface.co/jawadskript/brain_tumor_detection_CNN_DeepLearning
