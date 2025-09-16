@@ -6,7 +6,6 @@ https://huggingface.co/jawadskript/brain_tumor_detection_CNN_DeepLearning
 Dataset Link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 # Transfer Learning with EfficientNet For The Classification of Brain Tumor MR Images
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   
