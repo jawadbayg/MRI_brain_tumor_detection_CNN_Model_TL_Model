@@ -12,7 +12,7 @@ Dataset Link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-
   <p style="text-align: center;"><span style="font-weight: 400;">In this project, we developed and deployed a <strong>classifier for four different types of brain tumor MR images: Glioma, Meningioma, Pituitary and No Tumor</strong>. <br>
 Utilizing the method of <strong>transfer learning</strong> and<strong> EfficientNet B3</strong>, the final model achieved an <strong>accuracy rate of 99.23%</strong></span></p>
 
-    
+   
   </p>
 </div>
 <details>
