@@ -1,5 +1,6 @@
 Brain Tumor Detection CNN Model
 
+
 Hugging Face Link:
 https://huggingface.co/jawadskript/brain_tumor_detection_CNN_DeepLearning
 
