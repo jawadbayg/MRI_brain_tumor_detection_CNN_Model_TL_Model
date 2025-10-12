@@ -1,6 +1,7 @@
 Brain Tumor Detection CNN Model
 
 Hugging Face Link:
+
 https://huggingface.co/jawadskript/brain_tumor_detection_CNN_DeepLearning
 
 Dataset Link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
