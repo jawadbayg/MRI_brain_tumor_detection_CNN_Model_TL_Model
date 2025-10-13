@@ -1,5 +1,3 @@
-
-
 Brain Tumor Detection CNN Model
 
 Hugging Face Link:
