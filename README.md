@@ -14,7 +14,7 @@ Utilizing the method of <strong>transfer learning</strong> and<strong> Efficient
 
    
   </p>
-</div>
+</div> 
 <details>
 <summary> Table of Contents</summary>
 <p>🧠 Table of content:</p>
