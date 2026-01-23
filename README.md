@@ -6,7 +6,7 @@ https://huggingface.co/jawadskript/brain_tumor_detection_CNN_DeepLearning
 Dataset Link : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset       
 # Transfer Learning with EfficientNet For The Classification of Brain Tumor MR Images     
   
-<h3 align="center">Transfer Learning with EfficientNet For The Classification of Brain Tumor MR Images 
+<h3 align="center">Transfer Learning with EfficientNet For The Classification of Brain Tumor MR Images  
  <br>An End-to-End Deep Learning Project</h3>  
 
   <p style="text-align: center;"><span style="font-weight: 400;">In this project, we developed and deployed a <strong>classifier for four different types of brain tumor MR images: Glioma, Meningioma, Pituitary and No Tumor</strong>. <br>
